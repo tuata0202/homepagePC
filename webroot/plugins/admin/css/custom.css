@@ -1,0 +1,34 @@
+.file {
+    border: none !important;
+}
+.error input{
+    border: solid 1px crimson;
+}
+.error-message {
+    color: crimson;
+}
+.control-label span{
+    color: crimson;
+}
+.btn-radio-custom label{
+    width: 150px;
+}
+.btn-radio-custom input{
+    margin-right: 5px;
+}
+
+.success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+.message {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.resize-vertical {
+    resize: vertical !important;
+}

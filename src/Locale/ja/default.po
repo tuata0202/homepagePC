@@ -1,0 +1,56 @@
+msgid "name_company" 
+msgstr "パコムソリューション"
+
+msgid "company_info" 
+msgstr "企業情報"
+
+msgid "exchange" 
+msgstr "無料相談今すぐ始めよう"
+
+msgid "home" 
+msgstr "ホーム"
+
+msgid "company_message" 
+msgstr "代表メッセージ"
+
+msgid "company_bussiness" 
+msgstr "経営理念"
+
+msgid "company_intro" 
+msgstr "会社概要"
+
+msgid "company_leader" 
+msgstr "役員紹介"
+
+msgid "introduction" 
+msgstr "事業紹介"
+
+msgid "sys_web" 
+msgstr "WEBシステム開発"
+
+msgid "sys_business" 
+msgstr "業務システム開発"
+
+msgid "sys_app" 
+msgstr "スマホアプリ開発"
+
+msgid "sys_ai" 
+msgstr "人工知能開発"
+ 
+msgid "ex_development" 
+msgstr "開発事例"
+
+msgid "news" 
+msgstr "ニュース"
+
+msgid "contact" 
+msgstr "お問い合わせ"
+
+msgid "address" 
+msgstr "住所"
+
+msgid "city" 
+msgstr "東京都台東区北上野"
+
+msgid "company_policy" 
+msgstr "個人情報保護方針"

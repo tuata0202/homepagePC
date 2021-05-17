@@ -1,0 +1,58 @@
+msgid "name_company" 
+msgstr "Pacom Solutions"
+
+msgid "company_info" 
+msgstr "Thông tin công ty"
+
+msgid "exchange" 
+msgstr "Hãy cùng trao đổi miễn phí ngay với chúng tôi"
+
+msgid "home" 
+msgstr "Trang chủ"
+
+msgid "company_message" 
+msgstr "Top Message"
+
+msgid "company_bussiness" 
+msgstr "Triết lý kinh doanh"
+
+msgid "company_intro" 
+msgstr "Giới thiệu công ty"
+
+msgid "company_leader" 
+msgstr "Đội ngũ lãnh đạo"
+
+msgid "introduction" 
+msgstr "Giới thiệu"
+
+msgid "sys_web" 
+msgstr "Phát triển hệ thống web"
+
+msgid "sys_business" 
+msgstr "Phát triển hệ thống nghiệp vụ"
+
+msgid "sys_app" 
+msgstr "Phát triển ứng dụng điện thoại thông minh"
+
+msgid "sys_ai" 
+msgstr "Phát triển trí tuệ nhân tạo"
+ 
+msgid "ex_development" 
+msgstr "Ví dụ phát triển"
+
+msgid "news" 
+msgstr "Tin tức"
+
+msgid "contact" 
+msgstr "Liên hệ"
+
+msgid "company_policy" 
+msgstr "Chính sách bảo mật"
+
+msgid "address" 
+msgstr "Địa chỉ"
+
+msgid "city" 
+msgstr "Kitaeno, Taito-ku, Tokyo"
+ 
+ 

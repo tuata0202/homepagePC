@@ -1,0 +1,91 @@
+h1, h2, h3, h4, h5, h6{
+    font-weight: 600;
+}
+.style_ul ul{
+    list-style: disc;
+}
+body,p{
+    color: #000;
+}
+.advantage-item i{
+    margin: auto 0;
+    font-size: 20px;
+    width: 20%;
+    float: left;
+    padding: 15px 0 0 0;
+}
+.advantage-item h5{
+    max-height: 20px;
+    width: 80%;
+    float: left;
+}
+.toppage-profile-item{
+    height: 132px;
+}
+.toppage-profile-item h3{
+    height: 30px;
+}
+.advisory-right a{
+    padding: 15px 35px;
+}
+.step-item .head-step span:first-child{
+    font-weight: 600;
+}
+.btn {
+    font-weight: 600;
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px){
+    .link-contract>a{
+        width: 100%;
+        white-space: normal;
+    }
+    .contact-left {
+        width: 66%;
+    }
+    .notice-note {
+        width: 105px;
+    }
+}
+@media screen and (max-width:992px){
+   
+}
+
+@media screen and (max-width: 1023px){
+    .link-contract>a{
+        width: 100%;
+        white-space: normal;
+    }
+    #link-advisory>a{
+        width: 100%;
+        white-space: normal;
+    }
+}
+@media screen and (max-width: 991px) and (min-width: 768px){
+    .advisory-right a::after {
+        right: 15px;
+    }
+}
+@media screen and (max-width: 425px)
+{
+    .advisory-right a::after{
+        right: 15px;
+    }
+}
+@media screen and (max-width: 320px){
+    .advantage-item h5{
+        font-size: 15px;
+    }
+    .section.intro .last-intro-item span{
+        padding:15px 40px !important;
+    }
+    .advisory-right a{
+        padding: 15px 15px;
+    }
+    .advisory-right a::after{
+        right: 4px;
+    }
+    section.intro .last-intro-item span{
+        padding: 15px 50px;
+    }
+}
